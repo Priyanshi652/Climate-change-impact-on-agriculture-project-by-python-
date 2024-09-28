@@ -69,33 +69,33 @@ The project aims to uncover how climate change impacts agricultural productivity
 8. Implement Early Warning Systems for Extreme Weather:  
    Establish early warning systems for droughts, floods, and other extreme weather events to help farmers prepare and mitigate potential crop losses.
 
-## Tools & Techniques
+-->Tools & Techniques
 
 The analysis utilized the following tools:
-- **Python**: The primary programming language used for data manipulation and analysis.
-  - **Pandas**: For data cleaning and manipulation.
-  - **Matplotlib & Seaborn**: For data visualization and plotting.
+- Python: The primary programming language used for data manipulation and analysis.
+  -Pandas: For data cleaning and manipulation.
+  -Matplotlib & Seaborn: For data visualization and plotting.
 - In-depth trend analysis was conducted to identify correlations and patterns affecting crop yields across multiple regions.
 
-## Data Description
+-->Data Description
 
 The dataset used in this analysis consists of over **10,000 records** capturing the following key variables:
-- **Temperature**: Average temperature readings.
-- **Precipitation**: Total rainfall amounts.
-- **CO₂ Emissions**: Levels of carbon dioxide emissions.
-- **Crop Yields**: Agricultural output measured in tons per hectare.
-- **Irrigation Access**: Percentage of land with irrigation facilities.
-- **Soil Health Index**: A measure of soil quality and health.
+- Temperature: Average temperature readings.
+- Precipitation: Total rainfall amounts.
+- CO₂ Emissions: Levels of carbon dioxide emissions.
+- Crop Yields: Agricultural output measured in tons per hectare.
+- Irrigation Access: Percentage of land with irrigation facilities.
+- Soil Health Index: A measure of soil quality and health.
 
 
-## Conclusion 🌱
+--> Conclusion 🌱
 This project highlights the crucial relationship between climate factors, particularly rainfall, and agricultural productivity. By identifying the optimal rainfall ranges and understanding how climate variability impacts crop yields, we can help farmers and policymakers make data-driven decisions to ensure food security in the face of climate change.
 
 
-## Contact Information
+-->Contact Information
 
 For any questions or further collaboration, feel free to reach out:
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin-profile](Insert your LinkedIn profile link)
+- Email: priyanshikhandelwal2107@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/priyanshi-231b092a6
 
